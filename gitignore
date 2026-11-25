@@ -1,0 +1,20 @@
+# Secrets and environment files
+.env
+.env.*
+*.key
+
+# Dependencies and build output
+node_modules/
+dist/
+build/
+
+# Firebase local files
+.firebase/
+firebase-debug.log*
+.firebaserc
+
+# Editor and system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
